@@ -1,0 +1,11 @@
+13:58:45.994	PROCESS START
+13:58:46.90	Start customer count query
+13:58:46.103	End customer count query
+13:58:46.103	[Total Records : 49]
+13:58:46.103	Start agreement count query
+13:58:46.107	End agreement count query
+13:58:46.107	Start customer data query
+13:58:46.112	SQL_ERROR
+13:58:46.112	ERROR: column "c.name" must appear in the GROUP BY clause or be used in an aggregate function
+  Position: 36
+13:58:46.121	PROCESS FINISH
